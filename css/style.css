@@ -284,6 +284,7 @@ button.btn-secondary:hover{
 }
 .slider-main .carousel .carousel-item .carousel-caption p{
 	font-size: 38px;
+	text-transform: capitalize;
 }
 .slider-main .carousel .carousel-inner .carousel-item:before{
 	content: "";
@@ -356,7 +357,7 @@ button.btn-secondary:hover{
 }
 .about-main p{
 	font-size: 15px;
-	text-transform: capitalize;
+	/* text-transform: capitalize; */
 }
 .about-main ul{
 	padding-left: 20px;
@@ -591,6 +592,7 @@ button.btn-secondary:hover{
 	}
 	.slider-main .carousel .carousel-item .carousel-caption p{
 		font-size: 30px;
+		
 	}
 }
 
